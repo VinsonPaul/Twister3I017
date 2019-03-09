@@ -1,0 +1,57 @@
+.register_body {
+	background-color:#F0F8FF;
+	position: relative;
+}
+
+.register_title {
+	font-size:30px;
+	color:blue;
+	text-align:center;
+	margin-bottom:10px;
+	text-shadow:1px 1px 3px grey;
+}
+
+#register_main .box {
+	position:absolute;
+	background-color: white;
+	width:40%;
+	min-width:400px;
+	margin-left:30%;
+	margin-right:30%;
+	border:solid;
+	border-color: white;
+	box-shadow:2px 2px 3px black;
+}
+
+#register_main .ids {
+	position:relative;
+	margin-top:3%;
+	text-align:center;
+	width: 100%;
+	height:30px;
+}
+
+.input_ids {
+}
+
+#register_main .sex {
+	margin-top:10px;
+	text-align:center;
+	width: 100%;
+	height:30px;
+}
+
+#register_main .select_sex {
+	box-shadow:2px 2px 1px black;
+}
+
+
+#register_main .submit {
+	margin-top:10px;
+	text-align:center;
+	height:40px;
+}
+
+#register_main .input_submit {
+	box-shadow:2px 2px 1px black;
+}

@@ -1,0 +1,9 @@
+INDEX VERSION 1.4+/users/nfs/Etu1/3670471/Twister/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+1875921985.index
+2618821246.index
+788198538.index
+2188081357.index
+3645131329.index
+997923878.index
+2669559176.index
+1641097682.index

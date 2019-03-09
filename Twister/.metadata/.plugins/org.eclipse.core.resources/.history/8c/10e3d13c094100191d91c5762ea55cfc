@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>Twister</title>
+		<link href="../css/register.css" rel="stylesheet" type="text/css"/>
+	</head>
+	<body class="register_body" >
+		<div id="register_main">
+			<div class="register_title">Sign Up</div>
+			<form method=POST action="javascript:(function() { return;})()">
+				<div class="box">
+					<div class="ids">
+						<input class="input_ids" type="text" name="firstName" placeholder="First Name"/>
+					</div>
+					<div class="ids">
+						<input class="input_ids" type="text" name="name" placeholder="Name"/>
+					</div>
+					<div class="ids">
+						<input class="input_ids" type="text" name="username" placeholder="Username"/>
+					</div>
+					<div class="ids">
+						<input class="input_ids" type="password" name="password" placeholder="Password"/>
+					</div>
+					<div class="ids">
+						<input class="input_ids" type="password" name="password_v" placeholder="Confirm Password"/>
+					</div>
+					<div class="ids">
+						<input class="input_ids" type="text" name="mail" placeholder="Mail"/>
+					</div>
+					<div class="sex">
+						<select class="select_sex" name="sex" >
+							<option class="select_options" value="">-Sex-</option>
+							<option class="select_options" value="U">Undefined</option>
+							<option class="select_options" value="H">Male</option>
+							<option class="select_options" value="F">Female</option>
+						</select>
+					</div>
+					<div class="submit">
+						<input class="input_submit" type="submit" value="Register"/>
+					</div>
+				</div>
+			</form>
+		</div>
+	</body>
+</html>

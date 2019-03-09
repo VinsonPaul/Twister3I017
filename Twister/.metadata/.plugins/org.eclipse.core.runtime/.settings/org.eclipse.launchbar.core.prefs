@@ -1,0 +1,12 @@
+LaunchTargetManager/configs/TestMessages=org.eclipse.launchbar.core.launchTargetType.local\:Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=linux
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:AddFriends,org.eclipse.launchbar.core.descriptorType.default\:CreateUser,org.eclipse.launchbar.core.descriptorType.default\:Log,org.eclipse.launchbar.core.descriptorType.default\:TestUser,org.eclipse.launchbar.core.descriptorType.default\:TestMessages
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:CreateUser/activeLaunchMode=debug
+org.eclipse.launchbar.core.descriptorType.default\:CreateUser/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:Log/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:Log/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:TestMessages/activeLaunchMode=debug
+org.eclipse.launchbar.core.descriptorType.default\:TestMessages/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local

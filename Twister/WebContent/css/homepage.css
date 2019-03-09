@@ -1,0 +1,86 @@
+.home_body {
+	background-color: white;
+	background-size: cover;
+}
+
+.home_logo {
+	position: absolute;
+	background-image: url(../img/logo.jpg);
+	background-size: cover;
+	box-sizing: border-box;
+	background-color: #8eeaff;
+	min-width: 250px;
+	min-height: 200px;
+	width: 25%;
+	height: 20%;
+	margin-top: 0%;
+	margin-bottom: 80%;
+	margin-left: 0%;
+	margin-right: 75%;
+	border: solid;
+	border-color: white;
+}
+
+.home_toolbar {
+	position:absolute;
+	box-sizing: border-box;
+	background-color: #8eeaff;
+	min-width: 750px;
+	min-height: 200px;
+	width: 75%;
+	height: 20%;
+	margin-top: 0%;
+	margin-bottom: 80%;
+	margin-left: 25%;
+	margin-right: 0%;
+	border: solid;
+	border-color: white;
+}
+
+.home_profile {
+	position:absolute;
+	box-sizing: border-box;
+	background-color: #8eeaff;
+	min-width: 250px;
+	min-height: 800px;
+	width: 25%;
+	height: 80%;
+	margin-top: 20%;
+	margin-bottom: 0%;
+	margin-left: 0%;
+	margin-right: 75%;
+	border: solid;
+	border-color: white;
+}
+
+.home_wall {
+	position:absolute;
+	box-sizing: border-box;
+	background-color: #8eeaff;
+	min-width: 500px;
+	min-height: 800px;
+	width: 50%;
+	height: 80%;
+	margin-top: 20%;
+	margin-bottom: 0%;
+	margin-left: 25%;
+	margin-right: 25%;
+	border: solid;
+	border-color: white;
+}
+
+.home_friends {
+	position:absolute;
+	box-sizing: border-box;
+	background-color: #8eeaff;
+	min-width: 250px;
+	min-height: 800px;
+	width: 25%;
+	height: 80%;
+	margin-top: 20%;
+	margin-bottom: 0%;
+	margin-left: 75%;
+	margin-right: 0%;
+	border: solid;
+	border-color: white;
+}

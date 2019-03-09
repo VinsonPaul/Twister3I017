@@ -1,0 +1,35 @@
+Users:
+
+    Create User:
+        
+        User/Create/?username=X&password=X&mail=X (&name=X) (&firstName=X) (&sexe=X)
+        
+        Ex:
+            User/Create/?username=Eve&password=jardindeden&mail=1erefemme@paradis.eden&sexe=F&name=Eva&firstName=Eve
+
+    Login User:
+
+        User/Login/?username=X&password=X
+        
+        Ex:
+             User/Login/?username=Dieu&password=ancientestament
+             
+    Logout User:
+        
+        User/Logout/?username=X&key=X
+        
+        Ex:
+             User/Logout/?username=Dieu&key=???
+             
+    Delete User:
+
+        User/Delete/?username=X&password=X&key=X
+        
+        Ex:
+             User/Logout/?username=Dieu&password=ancientestament&key=???
+             
+Friends:
+
+    Add Friend:
+        
+        Friends/Add/?username=X&password=X&key=X
